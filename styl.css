@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    justify-content: center;
+    
+    margin-bottom:30px;
+}
+.cell table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bleu {
+    border: solid 1px ;
+    background-color:blue;
+    font-size: large;
+    color: white;
+    width: 10px;
+    
+}
+.red{
+    border: solid 1px ;
+    background-color: red;
+    font-size: large;
+    color: white;
+}
+
+.ora{
+    border: solid 1px ;
+    background-color: orange;
+    font-size: large;
+    color: white;
+}
+.black{
+    border: solid 1px ;
+    background-color: black;
+    font-size: large;
+    color: white;
+}
